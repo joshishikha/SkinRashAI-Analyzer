@@ -1,0 +1,2 @@
+# SkinRashAI-Analyzer
+SkinRashAI-Analyzer

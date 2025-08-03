@@ -1,6 +1,8 @@
 # SkinRashAI-Analyzer
 SkinRashAI-Analyzer
-I have built a complete AI skin analyzer app prototype. 
+I have built a complete AI skin analyzer app prototype using:
+- Node.js that handles the server-side operations and logic.
+- React.js imported that handles the client-side UI and user interaction.
 
 Key Features -
 Camera capture & image upload
